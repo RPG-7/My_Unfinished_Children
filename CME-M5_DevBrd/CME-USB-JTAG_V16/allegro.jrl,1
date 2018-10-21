@@ -1,0 +1,77 @@
+\t (00:00:04) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (00:00:04)     Journal start - Wed Jul 26 13:28:36 2017
+\t (00:00:04)         Host=ROCKSONSCYBER User=Administrator Pid=13132 CPUs=4
+\t (00:00:04) 
+\t (00:00:05) Starting new design...
+\i (00:00:06) trapsize 1796
+\i (00:00:06) trapsize 1753
+\i (00:00:06) trapsize 1803
+\i (00:00:07) trapsize 1501
+\i (00:00:07) trapsize 2848
+\i (00:00:08) generaledit 
+\i (00:00:50) open 
+\i (00:00:52) fillin "CME-USB-JTAG_V16_120730.brd"
+\t (00:00:52) Opening existing design...
+\i (00:00:53) fillin yes 
+\t (00:00:53) Grids are drawn 64.000, 64.000 apart for enhanced viewability.
+\i (00:00:53) trapsize 27152
+\d (00:00:53) Database opened: D:/Projects/Hardware/Altium/CME-M5_DevBrd/CME-USB-JTAG_V16/CME-USB-JTAG_V16_120730.brd
+\i (00:00:54) generaledit 
+\i (00:00:56) zoom in 1 
+\i (00:00:56) setwindow pcb
+\i (00:00:56) zoom in 2836.089 917.386
+\t (00:00:56) Grids are drawn 16.000, 16.000 apart for enhanced viewability.
+\i (00:00:56) trapsize 13576
+\i (00:00:56) zoom in 1 
+\i (00:00:56) setwindow pcb
+\i (00:00:56) zoom in 2836.089 917.386
+\i (00:00:56) trapsize 6788
+\i (00:00:57) zoom in 1 
+\i (00:00:57) setwindow pcb
+\i (00:00:57) zoom in 2836.089 917.386
+\t (00:00:57) Grids are drawn 4.000, 4.000 apart for enhanced viewability.
+\i (00:00:57) trapsize 3394
+\i (05:34:41) prepopup 2724.089 879.374
+\i (05:34:42) pick grid 2993.569 1073.508
+\t (05:34:42) last pick:  2994.000  1074.000
+\i (05:34:42) prepopup 3012.575 1085.726
+\i (05:34:44) pick grid 2806.222 930.283
+\t (05:34:44) last pick:  2806.000  930.000
+\i (05:34:45) zoom out 1 
+\i (05:34:45) setwindow pcb
+\i (05:34:45) zoom out 2806.222 930.283
+\t (05:34:45) Grids are drawn 16.000, 16.000 apart for enhanced viewability.
+\i (05:34:45) trapsize 6788
+\i (05:34:45) zoom out 1 
+\i (05:34:45) setwindow pcb
+\i (05:34:45) zoom out 2806.223 930.283
+\i (05:34:45) trapsize 13576
+\i (05:34:45) zoom out 1 
+\i (05:34:45) setwindow pcb
+\i (05:34:45) zoom out 2806.223 930.283
+\t (05:34:45) Grids are drawn 64.000, 64.000 apart for enhanced viewability.
+\i (05:34:45) trapsize 27152
+\i (05:34:46) zoom in 1 
+\i (05:34:46) setwindow pcb
+\i (05:34:46) zoom in 1416.059 1581.922
+\t (05:34:46) Grids are drawn 16.000, 16.000 apart for enhanced viewability.
+\i (05:34:46) trapsize 13576
+\i (05:34:46) zoom in 1 
+\i (05:34:46) setwindow pcb
+\i (05:34:46) zoom in 1416.059 1581.923
+\i (05:34:46) trapsize 6788
+\i (05:34:47) zoom in 1 
+\i (05:34:47) setwindow pcb
+\i (05:34:47) zoom in 1416.059 1581.923
+\t (05:34:47) Grids are drawn 4.000, 4.000 apart for enhanced viewability.
+\i (05:34:47) trapsize 3394
+\i (05:34:52) zoom out 1 
+\i (05:34:52) setwindow pcb
+\i (05:34:52) zoom out 1355.647 1611.111
+\t (05:34:52) Grids are drawn 16.000, 16.000 apart for enhanced viewability.
+\i (05:34:52) trapsize 6788
+\i (05:34:56) open 
+\i (05:34:58) fillin "menu_cancel"
+\i (05:34:58) generaledit 
+\i (05:34:59) exit 
+\t (05:34:59)     Journal end - Wed Jul 26 19:03:32 2017
